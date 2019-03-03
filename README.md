@@ -10,7 +10,7 @@
 
 [从规范看ECMAScript（一）：规范基础](./从规范看ECMAScript-一-规范基础.md)
 
-[从规范看ECMAScript-二-数据类型](./从规范看ECMAScript-二-数据类型.md)
+[从规范看ECMAScript（二）：数据类型](./从规范看ECMAScript-二-数据类型.md)
 
 -------------------
 
